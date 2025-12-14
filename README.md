@@ -1,16 +1,30 @@
-## Hi there 👋
+⭐ Prabin Saud
 
-<!--
-**PrabinSaud/PrabinSaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | SQL • Excel • Power BI • Oracle • C
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m Prabin Saud, a consistent learner who enjoys working with data and finding useful insights. I focus on writing clean queries, organizing data properly, and turning raw data into simple and clear reports. I’m improving my skills step by step through practice and projects.
+
+## ⭐ Skills
+
+**Data & Analysis:**  
+- SQL  
+- Excel  
+- Power BI  
+
+**Programming & Database:**  
+- C  
+- Oracle  
+
+**Tools:**  
+- Git  
+- GitHub  
+
+## ⭐ Current Focus
+
+- Improving SQL query performance and logic  
+- Building dashboards in Power BI  
+- Strengthening database concepts using Oracle  
+- Practicing real-world data analysis problems
+
