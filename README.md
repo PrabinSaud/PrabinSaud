@@ -11,7 +11,8 @@ I’m Prabin Saud, a consistent learner who enjoys working with data and finding
 **Data & Analysis:**  
 - SQL  
 - Excel  
-- Power BI  
+- Power BI
+- PostgreSQL
 
 **Programming & Database:**  
 - C  
@@ -19,7 +20,9 @@ I’m Prabin Saud, a consistent learner who enjoys working with data and finding
 
 **Tools:**  
 - Git  
-- GitHub  
+- GitHub
+- Draw.io
+- Dbdigram.io 
 
 ## ⭐ Current Focus
 
