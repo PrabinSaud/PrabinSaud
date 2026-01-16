@@ -12,12 +12,12 @@ I’m Prabin Saud, a consistent learner who enjoys working with data and finding
 - SQL  
 - Excel  
 - Power BI
-- PostgreSQL
 
 **Programming & Database:**  
 - C  
 - Oracle  
-
+- PostgreSQL
+- MYSQL
 **Tools:**  
 - Git  
 - GitHub
